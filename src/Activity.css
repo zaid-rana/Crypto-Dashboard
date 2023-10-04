@@ -1,0 +1,337 @@
+.activity,
+.activity * {
+  box-sizing: border-box;
+}
+.activity {
+  width: 854px;
+  height: 304px;
+  position: static;
+}
+.activity2 {
+  color: #e1dfec;
+  text-align: left;
+  font: 700 28px "DM Sans", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 293px;
+  top: 438px;
+}
+.activity3 {
+  width: 854px;
+  height: 232px;
+  position: static;
+}
+.rectangle-16 {
+  background: #110e22;
+  border-radius: 8px;
+  width: 854px;
+  height: 232px;
+  position: absolute;
+  left: 293px;
+  top: 510px;
+}
+.mask-group {
+  width: 854px;
+  height: 232px;
+  position: static;
+}
+.rectangle-17 {
+  background: linear-gradient(
+    -86.13deg,
+    /* rgba(147, 129, 255, 1) 0%, */
+    /* rgba(147, 129, 255, 0.89) 100% */
+  );
+  border-radius: 8px;
+  width: 854px;
+  height: 232px;
+  position: absolute;
+  left: 293px;
+  top: 400px;
+  bottom: 20px;
+}
+
+
+.transactions-list {
+  width: 778px;
+  height: 134px;
+  position: static;
+}
+.transaction-1 {
+  width: 778px;
+  height: 32px;
+  position: static;
+}
+.group-4 {
+  width: 187px;
+  height: 32px;
+  position: static;
+}
+.ethereum-purchased {
+  color: #ffffff;
+  text-align: left;
+  font: 500 14px "DM Sans", sans-serif;
+  position: absolute;
+  left: 376px;
+  top: 589px;
+}
+.group-3 {
+  width: 32px;
+  height: 32px;
+  position: static;
+}
+.rectangle-172 {
+  background: #ffffff;
+  border-radius: 5px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  left: 328px;
+  top: 582px;
+}
+.image-2 {
+  width: 11px;
+  height: 18px;
+  position: absolute;
+  left: 338px;
+  top: 589px;
+}
+._0-0154-eth {
+  color: #ffffff;
+  text-align: left;
+  font: 400 14px "DM Sans", sans-serif;
+  position: absolute;
+  left: 645px;
+  top: 589px;
+}
+._10-00 {
+  color: rgba(255, 255, 255, 0.5);
+  text-align: left;
+  font: 400 14px "DM Sans", sans-serif;
+  position: absolute;
+  left: 788px;
+  top: 589px;
+}
+.pending {
+  color: rgba(255, 255, 255, 0.5);
+  text-align: left;
+  font: 400 14px "DM Sans", sans-serif;
+  position: absolute;
+  left: 902px;
+  top: 589px;
+}
+.february-21-2021 {
+  color: rgba(255, 255, 255, 0.5);
+  text-align: left;
+  font: 400 14px "DM Sans", sans-serif;
+  position: absolute;
+  left: 996px;
+  top: 589px;
+}
+.transaction-2 {
+  width: 778px;
+  height: 32px;
+  position: static;
+}
+.group-5 {
+  width: 168px;
+  height: 32px;
+  position: static;
+}
+.bitcoin-purchased {
+  color: #ffffff;
+  text-align: left;
+  font: 500 14px "DM Sans", sans-serif;
+  position: absolute;
+  left: 376px;
+  top: 640px;
+}
+.rectangle-173 {
+  background: #ffffff;
+  border-radius: 5px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  left: 328px;
+  top: 633px;
+}
+.image-22 {
+  width: 18px;
+  height: 18px;
+  position: absolute;
+  left: 335px;
+  top: 640px;
+}
+._0-3-btc {
+  color: #ffffff;
+  text-align: left;
+  font: 400 14px "DM Sans", sans-serif;
+  position: absolute;
+  left: 667px;
+  top: 640px;
+}
+._10-002 {
+  color: rgba(255, 255, 255, 0.5);
+  text-align: left;
+  font: 400 14px "DM Sans", sans-serif;
+  position: absolute;
+  left: 787px;
+  top: 640px;
+}
+.done {
+  color: #ffffff;
+  text-align: left;
+  font: 400 14px "DM Sans", sans-serif;
+  position: absolute;
+  left: 919px;
+  top: 640px;
+}
+.february-14-2021 {
+  color: rgba(255, 255, 255, 0.5);
+  text-align: left;
+  font: 400 14px "DM Sans", sans-serif;
+  position: absolute;
+  left: 996px;
+  top: 640px;
+}
+.transaction-3 {
+  width: 778px;
+  height: 32px;
+  position: static;
+}
+.group-6 {
+  width: 168px;
+  height: 32px;
+  position: static;
+}
+.bitcoin-purchased2 {
+  color: #ffffff;
+  text-align: left;
+  font: 500 14px "DM Sans", sans-serif;
+  position: absolute;
+  left: 376px;
+  top: 691px;
+}
+.rectangle-174 {
+  background: #ffffff;
+  border-radius: 5px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  left: 328px;
+  top: 684px;
+}
+.image-23 {
+  width: 18px;
+  height: 18px;
+  position: absolute;
+  left: 335px;
+  top: 691px;
+}
+._0-025-btc {
+  color: #ffffff;
+  text-align: left;
+  font: 400 14px "DM Sans", sans-serif;
+  position: absolute;
+  left: 650px;
+  top: 691px;
+}
+._10-003 {
+  color: rgba(255, 255, 255, 0.5);
+  text-align: left;
+  font: 400 14px "DM Sans", sans-serif;
+  position: absolute;
+  left: 786px;
+  top: 691px;
+}
+.done2 {
+  color: #ffffff;
+  text-align: left;
+  font: 400 14px "DM Sans", sans-serif;
+  position: absolute;
+  left: 919px;
+  top: 691px;
+}
+.january-14-2021 {
+  color: rgba(255, 255, 255, 0.5);
+  text-align: left;
+  font: 400 14px "DM Sans", sans-serif;
+  position: absolute;
+  left: 1002px;
+  top: 691px;
+}
+.table-head {
+  width: 780px;
+  height: 18px;
+  position: static;
+}
+.transactions {
+  color: rgba(255, 255, 255, 0.5);
+  text-align: left;
+  font: 700 14px "DM Sans", sans-serif;
+  position: absolute;
+  left: 328px;
+  top: 532px;
+}
+.amount {
+  color: rgba(255, 255, 255, 0.5);
+  text-align: left;
+  font: 700 14px "DM Sans", sans-serif;
+  position: absolute;
+  left: 663px;
+  top: 532px;
+}
+.total {
+  color: rgba(255, 255, 255, 0.5);
+  text-align: left;
+  font: 700 14px "DM Sans", sans-serif;
+  position: absolute;
+  left: 798px;
+  top: 532px;
+}
+.status {
+  color: rgba(255, 255, 255, 0.5);
+  text-align: left;
+  font: 700 14px "DM Sans", sans-serif;
+  position: absolute;
+  left: 911px;
+  top: 532px;
+}
+.date {
+  color: rgba(255, 255, 255, 0.5);
+  text-align: left;
+  font: 700 14px "DM Sans", sans-serif;
+  position: absolute;
+  left: 1075px;
+  top: 532px;
+}
+.line-4 {
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.2);
+  border-width: 1px 0 0 0;
+  opacity: 0.20000000298023224;
+  width: 780px;
+  height: 0px;
+  position: absolute;
+  left: 328px;
+  top: 564px;
+}
+.more-activity {
+  width: 126px;
+  height: 21px;
+  position: static;
+}
+.more-activity2 {
+  color: #7d67ff;
+  text-align: left;
+  font: 500 16px "DM Sans", sans-serif;
+  position: absolute;
+  left: 1021px;
+  top: 456px;
+}
+.arrow-2 {
+  position: absolute;
+  left: 1132px;
+  top: 468px;
+  transform: translate(0px, -3.68px);
+  overflow: visible;
+}

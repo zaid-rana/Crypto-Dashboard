@@ -1,0 +1,130 @@
+/* Swap container styles */
+.swap-container {
+    background-color: #fff;
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+  /* Reserves styles */
+  .reserves {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  .reserve {
+    font-size: 18px;
+    color: #333;
+  }
+  
+  /* Herosection styles */
+  .Herosection {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .heading h4 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  /* Token select styles */
+  .token-select {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  input[type="number"] {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    width: 100px;
+    font-size: 16px;
+    margin-right: 10px;
+  }
+  
+ .swap-container button {
+    display: flex;
+    align-items: center;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #ddd;
+  }
+  
+  .token-icon {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+  }
+  
+  .token-name {
+    font-size: 18px;
+    color: #333;
+  }
+  
+  .token-amount {
+    font-size: 18px;
+    color: #666;
+    margin-left: auto;
+  }
+  
+  /* Rotate icon styles */
+  .rotate img {
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+  }
+  
+  .rotate-90 {
+    transform: rotate(90deg);
+  }
+  
+  /* Swap button styles */
+  .swap-button button {
+    background-color: #007bff;
+    color: #fff;
+    font-size: 18px;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .swap-button button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* MintSection styles */
+  .MintSection {
+    margin-top: 40px;
+  }
+  
+  /* Add more styles as needed to match the exact look of Uniswap's swap box */
+  
